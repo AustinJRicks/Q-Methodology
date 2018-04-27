@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+// 
+// This is the place for your statements. The maximum 
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special 
+// characters, make sure, that you save this XML-file 
+// as an UTF-8-document. White-space inbetween the 
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and 
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node 
+// consisting out of an opening and a closing tag. The 
+// statement itself goes between this two tags. 
+// The unique statement id is saved as an 
+// attribute called 'id'. We have three exmaple 
+// statements and we need therefore three statement-
+// nodes and one parent-node. 
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+// 
+// ===================================================
+// 
+-->
+
+<statements version="1.0" htmlParse="false">
+<statement id="1">I think that the most important contribution from IIMHL is information sharing</statement>
+<statement id="2">I wish there would be more information sharing in this community</statement>
+<statement id="3">I feel that I am provided with many opportunities for active continuous collaboration in projects through IIMHL</statement>
+<statement id="4">IIMHL should focus more on opportunities for its members to collaborate in different projects </statement>
+<statement id="5">I think IIMHL should be focusing on health and social care providers </statement>
+<statement id="6">I think IIMHL has all ‘right’ people involved</statement>
+<statement id="7">I would like to see more people from across all sectors (education, work, business, arts etc. engaged in IIMHL</statement>
+<statement id="8">I think I currently contribute enough to the network</statement>
+<statement id="9">I am willing to contribute more (time, financial support etc.) to the network in the future</statement>
+<statement id="10">I think people would be willing to contribute more to IIMHL</statement>
+<statement id="11">I think one of the core strength of IIMHL is that the financing comes uniquely from national governments</statement>
+<statement id="12">I think IIMHL should expand its core membership to other levels of government (state, provincial, local etc.) </statement>
+<statement id="13">I would like to see a broader membership base that could be open to paying membership from others such as NGO-sector organizations, large businesses etc.</statement>
+<statement id="14">I think IIMHL focuses too much on leaders in policy development</statement>
+<statement id="15">I think IIMHL has too strong a focus on leaders of direct service provision</statement>
+<statement id="16">I wish IIMHL would work more with leaders in newer sectors for mental health such as education, work, city and regional development etc.</statement>
+<statement id="17">I hope IIMHL would focus more on leaders of direct service provision </statement>
+<statement id="18">I think it is good that it is up to the country that hosts the leadership exchange to set most priorities for the leadership exchange </statement>
+<statement id="19">In my opinion, IIMHL has too high focus on shared work between leadership exchanges</statement>
+<statement id="20">I would have appreciated that IIMHL would keep a longer term focus on a set of priorities that reoccur at each leadership exchange </statement>
+<statement id="21">I think IIMHL should be zooming in on leadership much more</statement>
+<statement id="22">In my opinion, the leadership exchange is the most important service IIMHL provides </statement>
+<statement id="23">Personal networking opportunities is the single most important value I get out of IIMHL </statement>
+<statement id="24">The written reports bi-monthly IIMHL and IIDL updates and the quarterly Make it So –reports provides a lot of value for me</statement>
+<statement id="25">I wish IIMHL would provide more workshops/training/education opportunities between leadership exchanges </statement>
+<statement id="26">I think IIMHL could develop a mentorship programme</statement>  
+</statements>
